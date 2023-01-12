@@ -12,11 +12,10 @@
   
   This project shows my proficiiency to write basic SQL queries with use of CTE and more complex functions like PARTITION BY.
   
-  Please check the covid_sql_project.pdf to see all the exhaustive queries.
-  
-  \n
-  
-  
+  Please check the covid_sql_project.pdf to see all the exhaustive queries.  
+    
+      
+      
 2) The second SQL project is on data cleaning via SQL. I performed operation to:
 
     a) Convert the datetime format to date and update the table.
