@@ -14,7 +14,7 @@
   
   Please check the covid_sql_project.pdf to see all the exhaustive queries.
   
-  
+  \n
   
   
 2) The second SQL project is on data cleaning via SQL. I performed operation to:
