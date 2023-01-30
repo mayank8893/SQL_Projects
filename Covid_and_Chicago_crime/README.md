@@ -34,15 +34,19 @@
   
   Please check the data_cleaning.sql to see all the exhaustive queries.
   
-  3) The thiird project here is on understanding the crime in chcago. I used chicago_crime data from bigquery_public_data for this study. I wanted to answer primarily these questions:
+  3) The third project here is on understanding the crime in chcago. I used chicago_crime data from bigquery_public_data for this study. I wanted to answer primarily these questions:
   
     a) Has crime increased year over year?
+    
     b) Is there a particular month that has more crime?
+    
     c) What are the top 10 type of crimes in last 22 years?
+    
     d) Is there any district with more crime than others?
+    
     e) What was the percentage of theft year over year?
 
-The Sql queries i used are in the sql_queries file.
+The Sql queries i used are in the chicago_crime file.
 
 I generated the following plots in tableau to explain the results.
 
