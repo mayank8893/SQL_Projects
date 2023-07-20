@@ -5,7 +5,7 @@ This project used CIA World Factbook data which is a compendium of statistics of
 * Population Growth rate
 * Area
 
-SQL queries were then written to answer the following questionss from the data:
+SQL queries were then written to answer the following questions from the data:
 1) Which country has the maximum, minimum population? Which country has the maximum/minimum population growth rate?
 2) Which 10 countries have the least population?
 3) Which 10 countries have the highest population?
