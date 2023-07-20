@@ -12,9 +12,9 @@ SQL queries were then written to answer the following questions from the data:
 4) Calculate the average population and area.
 5) Find out which countries are densely populated by selecting countries with above average population and below average area.
 6) Which 10 countries are the most densely populated?
-7) Which country had the max population and which has max popilation growth rate?
+7) Which country had the max population and which has max population growth rate?
 8) Which countries have higher birth rate than death rate?
-9) Which countries will add the most people to their population in thee next year?
+9) Which countries will add the most people to their population in the next year?
 10) Which countries have the highest migration rate?
 
-Please see the cia_factbook_sql.pdf to all the exhaustive queries. Overall, this was a very easy project using SQL and done on BigQuery platform.
+Please see the cia_factbook_sql.pdf for all the exhaustive queries. Overall, this was a very easy project using SQL and done on BigQuery platform.
