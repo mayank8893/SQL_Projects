@@ -17,4 +17,4 @@ SQL queries were then written to answer the following questionss from the data:
 9) Which countries will add the most people to their population in thee next year?
 10) Which countries have the highest migration rate?
 
-Please see the cia_factbook_sql.txt to all the exhaustive queries. Overall, this was a very easy project using SQL.
+Please see the cia_factbook_sql.pdf to all the exhaustive queries. Overall, this was a very easy project using SQL and done on BigQuery platform.
