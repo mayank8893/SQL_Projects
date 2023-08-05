@@ -1,4 +1,4 @@
-# Portfolio_Projects
+
 
 1) The first project here is a SQL project on covid data. I seeked to answer multiple questions like:
 
