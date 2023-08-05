@@ -1,0 +1,58 @@
+1) To find out crime year over year.
+
+SELECT DISTINCT(year), COUNT(*) AS number_of_crimes
+
+FROM `bigquery-public-data.chicago_crime.crime`
+
+GROUP BY year
+
+ORDER BY year DESC
+
+
+
+2) To find out crime month over month.
+
+SELECT EXTRACT(MONTH FROM date) AS month, COUNT(*) AS number_of_crimes
+
+FROM `bigquery-public-data.chicago_crime.crime`
+
+GROUP BY month
+
+ORDER BY month DESC
+
+
+
+3) What are the top 10 crimes.
+
+SELECT  primary_type, COUNT(*) AS number_of_crimes
+
+FROM `bigquery-public-data.chicago_crime.crime` 
+
+GROUP BY primary_type
+
+ORDER BY number_of_crimes DESC
+
+
+4) To find out if there is any district with more crime.
+
+SELECT  district, COUNT(*) AS number_of_crimes
+
+FROM `bigquery-public-data.chicago_crime.crime` 
+
+GROUP BY district
+
+ORDER BY number_of_crimes DESC
+
+
+5) To find out theft as a percentage of total crime year over year.
+SELECT  year, 
+ (SELECT COUNT(*)
+ FROM `bigquery-public-data.chicago_crime.crime`
+ WHERE primary_type = "THEFT" AND year = t.year)/
+ COUNT(*) * 100 AS percentage_of_theft
+
+FROM `bigquery-public-data.chicago_crime.crime` AS t 
+
+GROUP BY year
+
+ORDER BY year
