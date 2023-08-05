@@ -2,7 +2,8 @@
 
 This project is from week-2 of Danny Ma's 8 week SQL challenge. The problem statement is as follows: Danny wanted to expand his new Pizza Empire and intended to Uberize it with Pizza Runner. Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runner Headquarters (otherwise known as Danny’s house) and also maxed out his credit card to pay freelance developers to build a mobile app to accept orders from customers. Please see the Pizza_Runner.sql to see all the queries.
 
-<img width="548" alt="Screen Shot 2023-07-29 at 11 48 21 AM" src="https://github.com/mayank8893/Pizza_Runner_using_SQL/assets/69361645/91099f50-a247-4ded-b0da-d95a8e1dafe1">
+![Screenshot 2023-08-05 at 8 42 52 AM](https://github.com/mayank8893/SQL_Projects/assets/69361645/ece9e32e-c35d-4b93-8548-fe8c4ef1953d)
+
 
 
 **CASE STUDY QUESTIONS:**
