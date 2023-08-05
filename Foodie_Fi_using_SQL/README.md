@@ -2,6 +2,9 @@
 
 Danny and his friends launched a new startup called "Food-Fi" in 2020 and started selling monthly and annual subscriptions, giving their customers unlimited on-demand access to exclusive food videos from around the world.
 
+![Screenshot 2023-08-05 at 8 43 38 AM](https://github.com/mayank8893/SQL_Projects/assets/69361645/6443c23d-489d-4726-b32d-5ebe844382f7)
+
+
 This case study focuses on using subscription style digital data to answer some important questions such as business performance, payments, and customer journey. I have answered questions like:
 
 1. How many customers had foodie-fi ever had?
