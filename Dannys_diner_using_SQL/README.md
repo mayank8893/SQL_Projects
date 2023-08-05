@@ -2,7 +2,8 @@
 
 For this SQL project I am using the famous Danny's Diner schema. This schema consists of three tables: sales containing customer_id, order_date and product_id info, members containing customer_id, join_date info and menu containing product_id, product_name and price info.
 
-<img width="500" alt="Screen Shot 2023-07-28 at 8 31 30 AM" src="https://github.com/mayank8893/Dannys_diner_using_SQL/assets/69361645/1b3a5585-1f9d-4a8c-8120-b8524e21fa01">
+![Screenshot 2023-08-05 at 8 45 15 AM](https://github.com/mayank8893/SQL_Projects/assets/69361645/f00a5c09-f402-4f21-925f-8565aecc5161)
+
 
 Based on these three tables, I have answerd the foloowing questions by writing queries in BigQuery:
 
@@ -20,4 +21,4 @@ Based on these three tables, I have answerd the foloowing questions by writing q
 Please see sql_week1.pdf for all the queries.
 
 
-![Screen Shot 2023-07-28 at 8 44 43 AM](https://github.com/mayank8893/Dannys_diner_using_SQL/assets/69361645/609f9b14-bdb6-4bb1-b0b6-7b9ac7f58e7a)
+
