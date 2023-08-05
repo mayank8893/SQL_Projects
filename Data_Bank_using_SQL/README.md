@@ -4,7 +4,8 @@ This project is from week-4 of Danny Ma's 8 week SQL challenge. Danny has launch
 
 The management team at Data Bank want to increase their total customer base - but also need some help tracking just how much data storage their customers will need. This case study is all about calculating metrics, growth and helping the business analyse their data in a smart way to better forecast and plan for their future developments!
 
-![Screen Shot 2023-07-28 at 3 59 57 PM](https://github.com/mayank8893/Data_Bank_using_SQL/assets/69361645/08226bdf-7d91-460e-a0b0-fc281c08efef)
+![Screenshot 2023-08-05 at 8 44 28 AM](https://github.com/mayank8893/SQL_Projects/assets/69361645/8bb147e6-0a96-4ffe-beb8-71ff4bbf4010)
+
 
 Questions that I have answered:
 1. How many unique nodes are there on the Data Bank system?
