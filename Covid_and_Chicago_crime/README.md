@@ -42,7 +42,7 @@ For this project, I used the publicly available `chicago_crime` dataset from **B
 - Which districts report the most crimes?
 - How has theft changed over the years?
 
-📄 **See:** [`chicago_crime.sql`](chicago_crime.sql) for SQL queries.
+**See:** [`chicago_crime`](chicago_crime) for SQL queries.
 
 **Visualizations created using Tableau:**
 
