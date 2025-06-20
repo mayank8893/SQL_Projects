@@ -1,52 +1,51 @@
+## SQL Projects
 
+### 1. COVID SQL Analysis
 
-1) The first project here is a SQL project on covid data. I seeked to answer multiple questions like:
+This project uses a COVID dataset to answer several real-world questions using SQL, such as:
 
-    a) Whats the likehihood of death if you get covid in USA?
+- What’s the likelihood of death if someone contracts COVID in the U.S.?
+- What percentage of the U.S. population was infected?
+- Which countries had the highest infection rates?
+- How did vaccination progress over time across different countries?
 
-    b) What percentage of population got covid in USA?
+This project showcases my ability to write basic to intermediate SQL queries, including use of **CTEs** and **window functions** like `PARTITION BY`.
 
-    c) What countries have the highest infection rate? 
+**See:** [`covid_sql_project.pdf`](covid_sql_project.pdf) for the full set of queries.
 
-    d) Rolling population in each country that got vaccinated and so on.
-  
-  This project shows my proficiiency to write basic SQL queries with use of CTE and more complex functions like PARTITION BY.
-  
-  Please check the covid_sql_project.pdf to see all the exhaustive queries.  
-    
-      
-      
-2) The second SQL project is on data cleaning via SQL. I performed operation to:
+---
 
-    a) Convert the datetime format to date and update the table.
+### 2. Data Cleaning in SQL
 
-    b) Populate the property addresses using SELF JOIN.
+This project focuses on cleaning and preparing a messy real estate dataset using SQL. Key operations include:
 
-    c) Break out addresses into address, city and state columns using both SUBSTRING and PARSENAME.
+- Converting `datetime` to standard `date` and updating the table
+- Filling in missing property addresses via **SELF JOIN**
+- Breaking out full address strings into separate `address`, `city`, and `state` columns using `SUBSTRING` and `PARSENAME`
+- Replacing `Y/N` entries with `Yes/No` using `CASE` statements
+- Removing duplicates with **CTEs**
+- Deleting unused columns
 
-    d) Multiple entries in the table were Y and N instead of Yes and No. Changed Y and N to Yes and No using CASE statements.
-    
-    e) Removed duplicates using CTE.
-    
-    f) Deleted unused columns from the table.
-  
-  This project shows my proficiiency to write SQL queries to clean data and make it more usable.
-  
-  Please check the data_cleaning.sql to see all the exhaustive queries.
-  
-  3) The third project here is on understanding the crime in chcago. I used chicago_crime data from bigquery_public_data for this study. I wanted to answer primarily these questions:
-  
-    a) Has crime increased year over year?
-    
-    b) Is there a particular month that has more crime?
-    
-    c) What are the top 10 type of crimes in last 22 years?
-    
-    d) Is there any district with more crime than others?
-    
-    e) What was the percentage of theft year over year?
+This project highlights my practical skills in using SQL to clean and structure raw data for analysis.
 
-The Sql queries i used are in the chicago_crime file.
+**See:** [`data_cleaning.sql`](data_cleaning.sql) for all queries.
+
+---
+
+### 3. Chicago Crime Analysis
+
+For this project, I used the publicly available `chicago_crime` dataset from **BigQuery** to analyze crime trends over the last 22 years. Questions explored include:
+
+- Has crime increased year over year?
+- Are certain months more prone to crime?
+- What are the top 10 most frequent crime types?
+- Which districts report the most crimes?
+- How has theft changed over the years?
+
+📄 **See:** [`chicago_crime.sql`](chicago_crime.sql) for SQL queries.
+
+**Visualizations created using Tableau:**
+
 
 I generated the following plots in tableau to explain the results.
 
