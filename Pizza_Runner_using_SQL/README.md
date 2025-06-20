@@ -2,13 +2,12 @@
 
 This project is from **Week 2** of **Danny Ma's 8-Week SQL Challenge**. The case study revolves around **Pizza Runner**, a startup by Danny who wanted to Uber-ize pizza delivery. He began by recruiting runners to deliver pizzas from his house (the Pizza Runner HQ), and hired developers to build a mobile ordering app.
 
-📄 **See all SQL queries in** [`Pizza_Runner.sql`](Pizza_Runner.sql)
+**See all SQL queries in** [`Pizza_Runner.sql`](Pizza_Runner.sql)
 
 ![Screenshot 2023-08-05 at 8 42 52 AM](https://github.com/mayank8893/SQL_Projects/assets/69361645/ece9e32e-c35d-4b93-8548-fe8c4ef1953d)
 
----
 
-### ✅ Case Study Questions Answered:
+### Case Study Questions Answered:
 
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
@@ -59,6 +58,5 @@ This project is from **Week 2** of **Danny Ma's 8-Week SQL Challenge**. The case
 
 29. If a new "Supreme" pizza with all toppings is added, how would the existing data model handle it? Write an `INSERT` statement to demonstrate adding it to the menu.
 
----
 
 This project highlights advanced SQL skills like **data wrangling, aggregations, case logic, window functions, string formatting**, and even **schema design** — all in the context of a real-world inspired food delivery platform.
